@@ -1,0 +1,183 @@
+SOFTWARE LICENSE AND SERVICE AGREEMENT
+
+Agreement ID: SLSA-2024-NL-00447
+Effective Date: August 1, 2024
+Expiry Date: July 31, 2027 (3-year initial term)
+
+BETWEEN:
+
+Nexalink Technologies Pvt. Ltd., a company incorporated under the laws of India,
+having its registered office at 14 Whitefield Main Road, Bengaluru, Karnataka 560066
+(hereinafter referred to as "LICENSOR")
+
+AND
+
+Feldberg Manufacturing AG, a company incorporated under the laws of Switzerland,
+having its registered office at Industriestrasse 88, 4600 Olten, Switzerland
+(hereinafter referred to as "LICENSEE")
+
+=======================================================
+ARTICLE 1 — DEFINITIONS
+=======================================================
+
+1.1 "Software" means Nexalink's proprietary manufacturing execution system (MES) known as "NexaFlow Enterprise v7", including all modules, updates, patches, and associated documentation.
+
+1.2 "Authorized Users" means employees and contractors of Licensee who are granted access credentials. Maximum Authorized Users under this Agreement: 500 concurrent users.
+
+1.3 "Deployment Environment" means Licensee's private cloud infrastructure hosted on AWS Frankfurt region (eu-central-1) exclusively.
+
+1.4 "Support Level" means the tier of technical support, defined in Schedule B. Licensee has subscribed to "Platinum Support" under this Agreement.
+
+1.5 "Confidential Information" means any non-public information disclosed by either party, including source code, business plans, pricing, and customer data.
+
+=======================================================
+ARTICLE 2 — LICENSE GRANT
+=======================================================
+
+2.1 Grant: Subject to payment of fees and compliance with this Agreement, Licensor grants Licensee a non-exclusive, non-transferable, non-sublicensable license to install and use the Software within the Deployment Environment.
+
+2.2 Restrictions: Licensee shall NOT:
+(a) Reverse engineer, decompile, or disassemble the Software
+(b) Use the Software to provide services to third parties (no SaaS resale)
+(c) Remove or alter any proprietary notices
+(d) Allow use by more than 500 concurrent Authorized Users without written amendment
+(e) Deploy the Software outside the AWS Frankfurt region without prior written consent
+
+2.3 Ownership: All intellectual property rights in the Software remain with Licensor. This Agreement does not transfer any ownership rights.
+
+=======================================================
+ARTICLE 3 — FEES AND PAYMENT
+=======================================================
+
+3.1 License Fee: CHF 840,000 per year (Swiss Francs), invoiced annually in advance.
+- Year 1 (Aug 2024 – Jul 2025): CHF 840,000 due August 1, 2024
+- Year 2 (Aug 2025 – Jul 2026): CHF 882,000 (5% escalation)
+- Year 3 (Aug 2026 – Jul 2027): CHF 926,100 (5% escalation)
+
+3.2 Professional Services: Implementation services provided by Licensor at CHF 1,850 per day. Estimated 45 days included in onboarding package (CHF 83,250 included, additional days billed separately).
+
+3.3 Payment Terms: Net 30 days from invoice date. Late payments accrue interest at 1.5% per month.
+
+3.4 Taxes: All fees are exclusive of VAT, GST, withholding taxes, and other applicable taxes. Licensee is responsible for all taxes in Switzerland. Licensor is responsible for Indian GST.
+
+3.5 Disputed Invoices: Licensee must notify Licensor of disputed charges within 15 days of invoice date. Undisputed portions must still be paid on time.
+
+=======================================================
+ARTICLE 4 — SUPPORT AND SERVICE LEVELS
+=======================================================
+
+4.1 Platinum Support Includes:
+- 24/7/365 technical support via dedicated phone hotline and email
+- Maximum response times: P1 (Critical) = 30 minutes; P2 (High) = 2 hours; P3 (Medium) = 8 hours; P4 (Low) = 48 hours
+- Dedicated Customer Success Manager (CSM): Ms. Divya Rao, reachable at d.rao@nexalink.com
+- Quarterly business reviews
+- Early access to beta releases (minimum 60 days before general availability)
+
+4.2 Uptime SLA: Licensor guarantees 99.9% monthly uptime for cloud-hosted components (excluding Licensee's AWS infrastructure and scheduled maintenance). Scheduled maintenance windows: Sundays 02:00–06:00 CET with 72 hours advance notice.
+
+4.3 SLA Credits: If uptime falls below 99.9%, Licensee receives service credits:
+- 99.0%–99.8%: 10% credit on monthly fee
+- 95.0%–98.9%: 25% credit on monthly fee
+- Below 95.0%: 50% credit on monthly fee
+Credits are the sole remedy for SLA breaches; Licensee waives any other claims for downtime.
+
+4.4 Exclusions from SLA: Downtime caused by Licensee's infrastructure failures, Force Majeure events, or Licensee's failure to apply critical patches within 30 days of release.
+
+=======================================================
+ARTICLE 5 — DATA AND PRIVACY
+=======================================================
+
+5.1 Data Processing: Licensor processes Licensee's manufacturing data solely to provide the Software services. Licensor acts as Data Processor; Licensee is Data Controller under GDPR.
+
+5.2 Data Location: All Licensee data is stored exclusively in AWS eu-central-1 (Frankfurt). No data transfer outside the European Economic Area without written consent.
+
+5.3 Data Retention: Upon termination, Licensor retains Licensee data for 90 days in read-only archive format, after which it is permanently deleted. Licensee may request data export in CSV or JSON format within this 90-day window at no charge (one export included; additional exports at CHF 2,500 each).
+
+5.4 Security: Licensor maintains ISO 27001 certification. Annual penetration tests conducted by independent third party. Licensor must notify Licensee of any security breach affecting Licensee data within 48 hours of discovery.
+
+5.5 GDPR DPA: A separate Data Processing Agreement (DPA) forming part of this contract is attached as Schedule C.
+
+=======================================================
+ARTICLE 6 — INTELLECTUAL PROPERTY INDEMNIFICATION
+=======================================================
+
+6.1 Licensor Indemnification: Licensor shall defend Licensee against any third-party claim that the Software infringes a patent, copyright, or trademark, provided Licensee:
+(a) Promptly notifies Licensor in writing (within 10 business days of claim)
+(b) Grants Licensor sole control of defense
+(c) Cooperates reasonably at Licensor's expense
+
+6.2 Licensor's Options: If infringement is claimed, Licensor may at its discretion:
+(a) Obtain the right to continue use
+(b) Modify the Software to be non-infringing
+(c) Replace with functionally equivalent non-infringing software
+(d) If none of the above is commercially reasonable, terminate the Agreement and refund prepaid fees pro-rated for unused period
+
+6.3 Exclusions: Indemnification does not apply if infringement results from Licensee's modification of the Software, combination with third-party products, or use outside the scope of this Agreement.
+
+=======================================================
+ARTICLE 7 — LIMITATION OF LIABILITY
+=======================================================
+
+7.1 Indirect Damages: NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS OR DATA, EVEN IF ADVISED OF POSSIBILITY.
+
+7.2 Liability Cap: LICENSOR'S TOTAL CUMULATIVE LIABILITY SHALL NOT EXCEED THE FEES PAID BY LICENSEE IN THE 12 MONTHS PRECEDING THE CLAIM. Based on Year 1 fees, this cap is CHF 840,000.
+
+7.3 Exceptions: The liability cap does not apply to:
+(a) Death or personal injury caused by negligence
+(b) Fraud or willful misconduct
+(c) Licensor's IP indemnification obligations under Article 6
+(d) Breach of confidentiality obligations
+
+=======================================================
+ARTICLE 8 — TERM AND TERMINATION
+=======================================================
+
+8.1 Initial Term: 3 years from August 1, 2024 to July 31, 2027.
+
+8.2 Renewal: Agreement automatically renews for successive 1-year terms unless either party gives 90 days written notice of non-renewal before the end of any term.
+
+8.3 Termination for Cause: Either party may terminate immediately upon written notice if the other party:
+(a) Materially breaches this Agreement and fails to cure within 30 days of written notice
+(b) Becomes insolvent, files for bankruptcy, or makes assignment for benefit of creditors
+(c) Ceases to conduct business in the ordinary course
+
+8.4 Effect of Termination:
+(a) All licenses granted immediately cease
+(b) Licensee must destroy all copies of the Software within 15 days and certify destruction in writing
+(c) Outstanding payment obligations survive termination
+(d) Data export rights per Article 5.3 survive for 90 days
+
+8.5 Termination for Convenience: Licensee may terminate for convenience with 6 months written notice, but is not entitled to a refund of prepaid fees.
+
+=======================================================
+ARTICLE 9 — GOVERNING LAW AND DISPUTES
+=======================================================
+
+9.1 Governing Law: This Agreement is governed by the laws of Switzerland (specifically, the Swiss Code of Obligations), without regard to conflict of law principles.
+
+9.2 Dispute Resolution:
+Step 1: Good faith negotiation for 30 days
+Step 2: Mediation under ICC Mediation Rules in Zurich for 60 days
+Step 3: Arbitration under ICC Rules, seat in Zurich, 3 arbitrators, language: English
+
+9.3 Injunctive Relief: Either party may seek injunctive relief in any court of competent jurisdiction without exhausting the dispute resolution steps.
+
+=======================================================
+SCHEDULES (referenced but not reproduced here)
+Schedule A: Software Modules and Feature List
+Schedule B: Support Tier Comparison
+Schedule C: GDPR Data Processing Agreement
+Schedule D: Acceptable Use Policy
+=======================================================
+
+SIGNATURES:
+
+For Nexalink Technologies Pvt. Ltd.:     For Feldberg Manufacturing AG:
+_____________________________           _____________________________
+Rajesh Subramaniam                       Klaus-Dieter Hofmann
+Chief Executive Officer                  Chief Operating Officer
+Date: July 28, 2024                      Date: July 29, 2024
+
+=======================================================
+END OF AGREEMENT
+=======================================================

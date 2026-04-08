@@ -1,0 +1,144 @@
+CLINICAL TRIAL REPORT
+Study ID: NCT-2024-VERANOX-007
+Title: Phase III Efficacy and Safety of Veranox-40 in Treatment-Resistant Major Depressive Disorder
+Sponsor: Meridian Pharmaceuticals Inc.
+Principal Investigator: Dr. Sophia Lindqvist, MD PhD
+Institution: Karolinska Institute, Stockholm, Sweden
+Report Date: October 15, 2024
+
+=======================================================
+ABSTRACT
+=======================================================
+
+Background: Treatment-resistant major depressive disorder (TR-MDD) affects approximately 30% of MDD patients who fail to respond to at least two adequate antidepressant trials. Veranox-40 is a novel dual-mechanism agent acting as both a selective serotonin reuptake inhibitor (SSRI) and a kappa-opioid receptor antagonist (KORA).
+
+Methods: 847 adult patients with TR-MDD were enrolled across 23 clinical sites in 8 countries. Patients were randomized 1:1 to receive Veranox-40 (40mg daily oral) or placebo for 16 weeks. Primary endpoint: change from baseline in Hamilton Depression Rating Scale (HDRS-17) at week 16. Secondary endpoints included remission rate (HDRS-17 ≤7), response rate (≥50% reduction in HDRS-17), and Patient Health Questionnaire-9 (PHQ-9) scores.
+
+Results: Veranox-40 demonstrated statistically significant superiority over placebo on all primary and secondary endpoints. Mean HDRS-17 reduction: 14.3 points (Veranox-40) vs 7.1 points (placebo), p<0.0001. Remission rate: 38.4% vs 16.2%, NNT=4.5. Response rate: 54.7% vs 28.3%.
+
+Conclusion: Veranox-40 represents a clinically meaningful advance for TR-MDD with an acceptable safety profile. Meridian Pharmaceuticals plans to submit a New Drug Application (NDA) to the FDA by Q1 2025.
+
+=======================================================
+1. INTRODUCTION
+=======================================================
+
+Major depressive disorder (MDD) affects approximately 280 million people globally (WHO, 2023). Of these, roughly 84 million suffer from treatment-resistant forms where standard therapies fail. Current options for TR-MDD are limited: electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), and esketamine (Spravato) are the primary approved alternatives, each with significant limitations in tolerability, access, or durability.
+
+Veranox-40 was developed by Meridian Pharmaceuticals over a 9-year program beginning in 2015. The compound (chemical name: 4-[(2R)-2-methylpiperazin-1-yl]-2-(trifluoromethyl)benzamide hydrochloride) emerged from a computational drug discovery platform that identified the kappa-opioid pathway as a key modulator of anhedonia, a core symptom of depression not adequately addressed by SSRIs alone.
+
+Phase I studies (2019-2020, n=64): Established safety and pharmacokinetics. Half-life: 18.4 hours. Bioavailability: 73%. No QTc prolongation observed.
+Phase II studies (2021-2022, n=214): Dose-finding. 40mg daily identified as optimal dose (superior to 20mg and 80mg on efficacy/tolerability balance).
+
+=======================================================
+2. METHODS
+=======================================================
+
+2.1 Patient Population
+Inclusion criteria:
+- Age 22-68 years
+- Diagnosis of MDD (DSM-5) with current episode >6 months duration
+- HDRS-17 score ≥20 at screening
+- Failed ≥2 adequate antidepressant trials (adequate = ≥6 weeks at recommended dose)
+- Stable on no antidepressants for ≥4 weeks prior to enrollment (washout period)
+
+Exclusion criteria:
+- Bipolar disorder, schizophrenia, or active substance use disorder
+- Active suicidal ideation with plan or intent
+- Pregnancy or breastfeeding
+- Hepatic impairment (Child-Pugh B or C)
+- Concurrent use of MAOIs, strong CYP3A4 inhibitors, or opioid medications
+
+2.2 Randomization and Blinding
+Patients were randomized using a central computerized system stratified by site and baseline HDRS-17 severity (moderate: 20-24; severe: ≥25). Both patients and investigators were blinded to treatment assignment. Matching placebo capsules were used. Treatment allocation was concealed using sealed envelopes opened only at study completion.
+
+2.3 Statistical Analysis
+Primary analysis: ANCOVA with treatment group as factor, baseline HDRS-17 and stratification factors as covariates. Modified intent-to-treat (mITT) population defined as all randomized patients who received ≥1 dose and had ≥1 post-baseline assessment. Missing data handled by multiple imputation. Pre-specified sensitivity analyses confirmed primary results. Alpha set at 0.05 (two-sided). Statistical power: 90% to detect minimum clinically important difference of 3 points on HDRS-17.
+
+=======================================================
+3. RESULTS
+=======================================================
+
+3.1 Patient Disposition
+Enrolled: 847 patients (423 Veranox-40; 424 placebo)
+Completed 16 weeks: 371 (87.7%) Veranox-40; 358 (84.4%) placebo
+Discontinued: 52 Veranox-40 (12.3%); 66 placebo (15.6%)
+Reasons for discontinuation (Veranox-40 / placebo):
+- Adverse events: 28 / 14
+- Withdrawal of consent: 16 / 31
+- Lost to follow-up: 8 / 21
+
+3.2 Primary Endpoint
+Mean baseline HDRS-17: 26.8 (Veranox-40), 27.1 (placebo) — well-balanced.
+Mean change from baseline at Week 16 (mITT, n=831):
+- Veranox-40: -14.3 points (SD 6.1)
+- Placebo: -7.1 points (SD 5.8)
+- Difference: -7.2 points (95% CI: -8.1 to -6.3), p<0.0001
+- Effect size (Cohen's d): 0.96 — considered large
+
+3.3 Secondary Endpoints
+Remission rate (HDRS-17 ≤7) at Week 16:
+- Veranox-40: 38.4% (162/422)
+- Placebo: 16.2% (68/420)
+- p<0.0001; NNT = 4.5
+
+Response rate (≥50% reduction HDRS-17):
+- Veranox-40: 54.7% (231/422)
+- Placebo: 28.3% (119/420)
+- p<0.0001; Odds ratio: 3.07 (95% CI: 2.28–4.13)
+
+PHQ-9 change from baseline:
+- Veranox-40: -9.4 points
+- Placebo: -4.8 points
+- Difference: -4.6 (p<0.0001)
+
+Onset of action: Statistically significant separation from placebo observed at Week 2 (p=0.018), earlier than most existing antidepressants.
+
+3.4 Safety and Tolerability
+Most common adverse events (≥5% in either group):
+- Nausea: 31.2% (Veranox-40) vs 14.1% (placebo) — most resolved by Week 4
+- Headache: 22.7% vs 19.3%
+- Insomnia: 18.4% vs 15.6%
+- Dry mouth: 17.9% vs 8.2%
+- Dizziness: 14.3% vs 9.7%
+- Decreased libido: 12.1% vs 6.8%
+
+Serious adverse events (SAEs):
+- Veranox-40: 11 SAEs in 9 patients (2.1%)
+- Placebo: 8 SAEs in 7 patients (1.6%)
+- No statistically significant difference (p=0.62)
+- No deaths occurred in either group during the study
+
+Liver function: 3 patients on Veranox-40 showed transient ALT elevation >3x ULN; all resolved with discontinuation. No cases of drug-induced liver injury (DILI) meeting Hy's Law criteria.
+
+Weight: Mean weight change: +1.4 kg (Veranox-40) vs -0.3 kg (placebo) at 16 weeks.
+
+=======================================================
+4. DISCUSSION
+=======================================================
+
+Veranox-40 achieved a Cohen's d of 0.96, substantially larger than typical antidepressant effect sizes (0.3-0.5) in TR-MDD populations. The NNT of 4.5 for remission compares favorably to esketamine (NNT ~5-7 in comparable populations).
+
+The early onset at Week 2 is clinically significant — rapid response in depression reduces suicide risk during the acute phase and improves patient retention in treatment.
+
+The kappa-opioid antagonism component specifically targets anhedonia (inability to feel pleasure), a symptom notoriously resistant to SSRIs alone. This dual mechanism likely explains the superior efficacy.
+
+Limitations:
+- 16-week trial does not address long-term efficacy and durability
+- Nausea rate (31.2%) may limit tolerability in real-world practice
+- Study excluded patients >68 years; elderly data needed
+- The weight gain signal (+1.4 kg) warrants monitoring in longer trials
+
+=======================================================
+5. REGULATORY PATHWAY
+=======================================================
+
+Meridian Pharmaceuticals plans:
+- NDA submission to FDA: Q1 2025 (targeting Priority Review given unmet need designation)
+- EMA submission (European Medicines Agency): Q2 2025
+- PDUFA date (expected FDA action): Q4 2025
+- If approved, launch in US: Q1 2026 under brand name "Serenivex"
+- Planned price: $340/month (generic price expected in 2040 when patent expires)
+
+=======================================================
+END OF CLINICAL TRIAL REPORT
+=======================================================
